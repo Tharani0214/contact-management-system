@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Apple",
+        "phone": "5467892301",
+        "email": "apple@gmail.com",
+        "address": "xyz"
+    },
+    {
+        "name": "orange",
+        "phone": "1234567890",
+        "email": "or_ange@gmail.com",
+        "address": "abc"
+    }
+]
